@@ -1,10 +1,10 @@
 /*
  ============================================================================
- Name        : helloworld.c
+ Name        : travelling-salesman.c
  Author      : 
  Version     :
- Copyright   : Your copyright notice
- Description : Hello World in C, Ansi-style
+ Copyright   : none :)
+ Description : solution to travelling salesman problem
  ============================================================================
  */
 
